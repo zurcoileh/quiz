@@ -1,0 +1,7 @@
+1: Qual é o modelo de referência para gerenciamento de processos de TI mais aceito mundialmente?#itil,cobit,scrum,xp#itil#question1.jpg*
+2: O que significa a sigla ITIL?#instituição da tecnologia da informação livre,livraria de infraestrutura da tecnologia da informação,linguagem da infraestrutura da tecnologia da informação, logica da infraestrutura da tecnologia da informação#livraria de infraestrutura da tecnologia da informação#question5.jpg*
+3: Em ITIL. SGBD's, DNS, Redes, Sistemas adquiridos pela TI e Sistemas desenvolvidos pela TI são exemplos de:#infraestrutura ,instalações,serviços de t.i,comunicação#serviços de t.i#question2.jpg*
+4: O Gerenciamento de Disponibilidade de ITIL pode ser aplicado a:#fornecedores de t.i,estrutura de recursos humanos,procedimentos de controle de produção,estrutura de atendimento empresarial#fornecedores de t.i#question3.jpg*
+5: Qual o objetivo de um custo efetivo dos ativos de TI e recursos financeiros usados no fornecimento de serviços de TI?#maximizar a velocidade da rede,apoiar nas decisões de compras,prestação de contas dos gastos de t.i,diminuir perdas operacionais#prestação de contas dos gastos de t.i#question4.jpg*
+6: Qual desses não é um objetivo do ITIL?#reduzir custos,reduzir riscos,aumentar a eficiência e eficácia,servir de regra ou metodologia#servir de regra ou metodologia#question6.jpg*
+7: Seguindo as diretrizes da ITIL. O escopo de capacidade é definido por:#hardware,software,equipamentos de redes,todas as alternativas estão corretas#todas as alternativas estão corretas#question7.jpg*
