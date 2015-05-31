@@ -2,7 +2,7 @@ Mobile Quiz Application developed with MIT App Inventor 2.
 
 Answers validation through voice recognition.
 
-To install the quiz on your mobile save the .apk file to your phone and run it. Also save the data.txt inside phone sd card for the data to be loadaded.
+To install the quiz on your mobile save the .apk file to your phone and run it. Also save the data.txt inside phone sd card for the data to be loaded.
 
 The source code is contained in the .aia file.
 
