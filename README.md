@@ -10,7 +10,7 @@ The content can be modified by changing the data.txt with the questions, answers
 
 Sample data for each line of text file:
 
-<question>#<answer 1>,<answer 2>,<answer 3>,<answer 4>#<correct answer>#<image.jpg>*
+question x#answer 1,answer 2,answer 3,answer 4#correct answer#image.jpg*
 
 Author: Helio Ribeiro.
 
